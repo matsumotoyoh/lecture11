@@ -1,4 +1,4 @@
-var SERVER_NAME = "";
+var SERVER_NAME = "blue.mlkcca.com";
 var DATA_STORE_NAME = "messages";
 
 var server;
